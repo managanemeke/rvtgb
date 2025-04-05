@@ -1,0 +1,14 @@
+*
+!/.husky
+!/public
+!/src
+!/.gitignore
+!/biome.json
+!/commitlint.config.ts
+!/index.html
+!/package.json
+!/pnpm-lock.yaml
+!/readme.md
+!/tsconfig.json
+!/tsconfig.node.json
+!/vite.config.ts
